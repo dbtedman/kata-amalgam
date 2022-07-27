@@ -5,7 +5,6 @@
 
 [![ci workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-amalgam/ci?style=for-the-badge&logo=github&label=ci)](https://github.com/dbtedman/kata-amalgam/actions/workflows/ci.yml)
 [![sast workflow status](https://img.shields.io/github/workflow/status/dbtedman/kata-amalgam/sast?style=for-the-badge&logo=github&label=sast)](https://github.com/dbtedman/kata-amalgam/actions/workflows/sast.yml)
-[![MIT License](https://img.shields.io/github/license/dbtedman/kata-amalgam?color=orange&style=for-the-badge)](https://github.com/dbtedman/kata-amalgam/blob/main/LICENSE.md)
 
 Platform for defining recipes to repeatable operations.
 
